@@ -1,0 +1,57 @@
+.recuadro{
+    margin: auto;
+    width: 1300px;
+    height: 350px;
+    border: solid;
+  
+    
+
+}
+
+.contenido1{
+    
+    width: 150px;
+    height: 150px;
+    background-color: aliceblue;
+    align-content: center;
+    margin: 75px 20px 20px 20px;
+    float: left;
+}
+
+ .contenido1 img{
+
+    width: 150px;
+    height: 150px;
+}
+.contenido2{
+
+    background-color:
+    width: 300px;
+    height: 100px;
+    align-content: center;
+    margin: 100px 20px 20px 50px;
+    float: left;
+
+}
+
+.contenido3{
+    width: 600px;
+    height: 250px;
+    background-color: aliceblue;
+    align-content: center;
+    margin: 50px 50px 50px 70px;
+    float: left;
+    border: solid;
+}
+  
+meter{
+    width: 350px;
+    height: 30px;
+    align-content: center;
+    margin: 25px;
+
+}
+
+
+
+    
